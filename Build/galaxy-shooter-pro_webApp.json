@@ -1,0 +1,16 @@
+{
+"companyName": "bumpyroadtocode",
+"productName": "galaxy-shooter-pro_udemy",
+"productVersion": "0.1",
+"dataUrl": "galaxy-shooter-pro_webApp.data.unityweb",
+"wasmCodeUrl": "galaxy-shooter-pro_webApp.wasm.code.unityweb",
+"wasmFrameworkUrl": "galaxy-shooter-pro_webApp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
